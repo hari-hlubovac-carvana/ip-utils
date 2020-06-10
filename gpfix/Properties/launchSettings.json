@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gpfix": {
+      "commandName": "Project",
+      "commandLineArgs": "\"PANGP Virtual Ethernet Adapter\" ip"
+    }
+  }
+}
